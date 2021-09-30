@@ -1,0 +1,370 @@
+#nav li{
+        
+
+    list-style-type: none;
+        float: center;
+        display: inline;
+       
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       margin:10px;
+        border-width: 2px;
+        
+       
+        border-color: grey;
+        
+        }
+        #nav{
+    
+           
+            width:auto;
+           
+            margin-left: 700px;
+        }
+        #nav a{
+            text-decoration: none; 
+            color:rgb(10, 10, 10);
+        }
+        #nav li:hover{
+    
+            background-color:rgb(182, 182, 174);
+        }
+       
+        .side a img{
+            
+            width:250px;
+            height:200px;
+          }
+          
+        
+    .other a img{
+    
+        
+        width: 800px;
+        
+        height: 400px;
+        
+      }
+      
+      .side{
+
+        float:left;
+      }
+    .other{
+        float:right;
+        width:auto;
+        bottom:30px;
+        padding-right: 80px;
+       
+        
+    
+    }
+   .background
+   {
+        background-image: url(SSS.jpg);
+        background-repeat: no-repeat;
+       margin-top: 0;
+         background-color: #e4ee59;
+        height: 700px;
+         width: 1250px;
+         background-size: cover;
+         position: relative;
+        
+         
+    }
+   
+  
+    .text{
+       text-align: center;
+       padding-top:500px;
+       padding-left: 40px;
+       float: center;
+      }
+
+      .navbar{
+
+        text-align: left;
+        margin:5px;
+        font-size: 30px;
+        color: black;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+        
+      }
+      .paragraph{
+          text-align: center;
+          margin: 50px;
+          width:500px;
+          margin-left: 380px;
+      }
+      
+      .aboutus{
+          float:left;
+          width: 600px;
+          padding-top: 50px;
+          height: 500px;
+          text-align: center;
+         
+      
+      }
+
+      .aboutus p{
+
+        line-height: 20px;
+        margin-top: 10px;
+        padding-top:20px;
+        width: 400px;
+        text-align: center;
+        margin-left:120px;
+    
+      }
+      .aboutus2{
+          float:right;
+          width: 600px;
+          padding-right: 0px;
+          height: 500px;
+          
+      }
+      
+      
+      .about{
+        height: 500px;
+        width:1250px;
+        display: block;
+        
+        background-color: antiquewhite;
+         
+      }
+      
+
+        .leftroom{
+
+width:1250px; 
+height:400px;
+margin-top: 50px;
+background-color:antiquewhite;
+
+        }
+      .leftroom h2{
+
+        text-align: center;
+        font-size:2em;
+        font-family:Georgia, 'Times New Roman', Times, serif
+        
+      }
+      .leftroom a img{
+            
+        width:300px;
+        height:250px;
+      }
+      
+      .single{
+        float:left;
+        margin-left: 20px;
+      }
+      .double{
+        float:left;
+        margin-left: 160px;
+      }
+.king{
+  float:right; 
+  margin-right:20px;
+}
+.activites{
+  width:1250px;
+  height:600px;
+  
+  margin-top: 100px;
+
+ 
+}
+.p1{
+
+  float:center;
+  margin-left: 400px;
+ 
+}
+.spa{
+  float:right;
+  margin-right:220px;
+  margin-top: 80px;
+}
+.spa img{
+height:400px;
+width:800px;
+}
+
+.small{
+
+  
+  margin-top:100px;
+  height:500px;
+  margin-left: 40px;
+}
+
+.sub{
+  float:left;
+  width: 650px;
+  height: 200px;
+  
+}
+.sub1{
+float:left;
+  width: 650px;
+  height: 200px;
+  
+}
+.small1{
+  width:300px;
+  
+  float:left;
+}
+.small2{
+  width:300px;
+ 
+  float:left;
+  
+}
+.small3{
+  width:300px;
+ 
+  float :left;
+
+}
+.small4{
+  width:300px;
+
+  float:left;
+}
+.wedding img{
+
+  width:500px;
+  height:400px;
+  padding-right: 0px;;
+}
+.pool{
+  background-image: url(pool3.jpg);
+  background-repeat: no-repeat;
+ 
+   background-color: #e4ee59;
+  height: 600px;
+   width: 1250px;
+   background-size: cover;
+   position: relative;
+   
+}
+.textpool img{
+  height: 400px;
+  width: 400px;
+  border-radius:40%;
+ 
+
+}
+.textpool{
+padding-top: 50px;
+float: right;
+}
+.firsttext {
+  position: absolute;
+ bottom: 8;
+ left:16px;
+ bottom:5px;
+ font-size:2em;
+ color: lightgrey;
+}
+.dinner{
+  width: 1250px;
+  height:400px;
+ 
+  margin-top:70px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.dinner1{
+  width:350px;
+  height:200px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 70px;
+ 
+  
+}
+.dinner2{
+float:left;
+  width:600px;
+  height:400px;
+  margin-left:250px;
+ 
+}
+.dinner2 img{
+  width:600px;
+  height:400px;
+}
+
+.reception{
+
+
+margin-top: 100px;
+height:550px;
+}
+.reception1{
+  float: left;
+  width: 60%;
+  padding: 10px;
+}
+.reception2{
+
+  float: right;
+  width:30%;
+  margin-top: 100px;
+  margin-right: 50px;
+}
+.reception1 img{
+
+  height:500px;
+  width: 600px;
+}
+.column {
+  float: left;
+  width: 30%;
+  padding: 10px;
+}
+.row{
+width: 1250px;
+height:200px;
+background-color: rgb(29, 28, 28);
+color: white;
+
+}
+
+#nav1{
+
+  background-color:black;
+  height: 50px;
+  margin-top:0;
+
+  
+}
+#nav1 li{
+
+  display: inline;
+  list-style-type:none ;
+  
+  border-width: 2px;
+   border-color: grey;
+   margin-left: 120px;
+   color:white;
+   margin-top:20px;
+}
+
+#nav1 a{
+  text-decoration: none; 
+  color:rgb(255, 251, 251);
+  margin-top: 20;
+}
+
+#nav1 li:hover{
+    
+  background-color:rgb(182, 182, 174);
+}
